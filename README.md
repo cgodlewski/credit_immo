@@ -1,4 +1,4 @@
-# Tableau de bord immobilier et credit en France
+﻿# Tableau de bord immobilier et credit en France
 
 L'app combine:
 - les prix des logements anciens via l'API INSEE
